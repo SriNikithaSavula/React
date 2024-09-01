@@ -8,7 +8,7 @@ const Thank=()=>
 {
     return(
     <div>
-    <h1>Let we see the output of JAVASCRIPT</h1>
+    <h1>Let we can see the output of JAVASCRIPT</h1>
     <button onClick={alertmsg}>Button</button>
 </div>
     );
