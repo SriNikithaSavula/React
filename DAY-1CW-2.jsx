@@ -3,7 +3,7 @@ function AlertMsg()
 {
    let myobject={name:"Madras"};
    let newObject=myobject;
-   myobject.name="Chennai";
+   myobject.name="Bengaluru";
    let myarray=["a","e","i","o"];
    let vowelArray=myarray;
    myarray.push("u");
