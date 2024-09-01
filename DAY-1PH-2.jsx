@@ -23,7 +23,7 @@ const Hello=()=>{
     return (
         <div>
             <h1>Primitive Data Types copy the values</h1>
-            <button onClick={AlertMsg}>PAH</button>
+            <button onClick={AlertMsg}>PAH 2</button>
         </div>
     );
 };
