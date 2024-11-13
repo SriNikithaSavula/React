@@ -1,0 +1,26 @@
+{
+  "transactions": [
+    {
+      "id": "bcaa",
+      "transaction": {
+        "id": 1,
+        "date": "2024-10-24",
+        "amount": -1000,
+        "type": "Debit",
+        "description": "hospital"
+      },
+      "updatedBalance": 9000
+    },
+    {
+      "id": "bfa6",
+      "transaction": {
+        "id": 2,
+        "date": "2024-10-24",
+        "amount": 900,
+        "type": "Credit",
+        "description": "savings"
+      },
+      "updatedBalance": 9900
+    }
+  ]
+}
